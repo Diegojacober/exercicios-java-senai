@@ -57,15 +57,20 @@ Implemente funções como adicionar avaliações, atualizar existentes, calcular
 
 14 - Matrícula de estudantes: Crie um programa que use um set para acompanhar estudantes matriculados em um curso.
 Implemente operações como adicionar novos estudantes, remover estudantes, verificar se um estudantes está matriculado e exibir a lista de estudantes
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 15 - Banco de dados de funcionários: Construa um programa que use um ArrayList para gerenciar informações de funcionáriosm
 nomes, IDs e salários, adicionar funcionarios, pesquisar e exibir todos
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 16 - Inventário de livros: Desenvolva um programa que use um Map para armazenar informações de livros, incluindo títulos como chaves e seus respectivos autores,
 gêneros e preços como valores. Adicionar, atualizar, pesquisar e exibir todos.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 17 - Carrinho de compras: Crie um programa que use ArryaList para implementar um carrinho de compras simples. Os usuários
 devem ser capazes de adicionar itens ao carrinho, calcular preço total dos itens e exibir os itens do carrinho.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 18 - Confirmação de RSVP de evento: Construe um programa que use um set para acompanhar as confirmações de RVSP de um evento.
 Implemente funções como adicionar confirmações, remover e verificar confirmação e exibir a lista.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
